@@ -1,1 +1,1 @@
-A simple template for a robust github actions CI/CD pipeline.
+# A simple template for a robust GitHub actions CI/CD pipeline.
